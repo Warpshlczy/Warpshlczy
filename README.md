@@ -7,19 +7,19 @@
 # 前端学习路线
 ✨表示正在学习
 - [x] HTML、CSS、HTML5、CSS3
-- [ ] Bootstrap和less
-- [ ] JavaScript核心与高级
+- [ ] Bootstrap和less ✨
+- [ ] JavaScript核心与高级 ✨
 - [ ] jQuery
-- [ ] ES6
+- [ ] ES6 ✨
 - [ ] Promise ✨
-- [ ] Node.js
+- [ ] Node.js ✨
 - [ ] MongoDB
-- [ ] AJAX和axios
+- [x] AJAX和axios
 - [ ] Webpack
-- [ ] React
-- [ ] Vue2
+- [ ] React ✨
+- [x] Vue2
 - [ ] Vue3
-- [ ] TypeScript
+- [ ] TypeScript ✨
 - [ ] 微信小程序
 <!--
 **Warpshlczy/Warpshlczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
