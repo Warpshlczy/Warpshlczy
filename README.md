@@ -15,7 +15,7 @@
 - [ ] Node.js ✨
 - [ ] MongoDB
 - [x] AJAX和axios
-- [ ] Webpack
+- [ ] Webpack ✨
 - [ ] React ✨
 - [x] Vue2
 - [ ] Vue3
