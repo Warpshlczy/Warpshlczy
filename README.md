@@ -3,12 +3,13 @@
 
 🌱 现阶段主攻前端，C、C#、Java都只会一点点
 # 前端学习路线
-- [ ] HTML、CSS、HTML5、CSS3
+## ✨表示正在学习
+- [x] HTML、CSS、HTML5、CSS3
 - [ ] Bootstrap和less
 - [ ] JavaScript核心与高级
 - [ ] jQuery
 - [ ] ES6
-- [ ] Promise
+- [ ] Promise ✨
 - [ ] Node.js
 - [ ] MongoDB
 - [ ] AJAX和axios
