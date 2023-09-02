@@ -7,8 +7,8 @@
 # 前端学习路线
 ✨表示正在学习
 - [x] HTML、CSS、HTML5、CSS3
-- [ ] Bootstrap和less ✨
-- [ ] JavaScript核心与高级 ✨
+- [ ] Bootstrap、less ✨
+- [ ] JavaScript ✨
 - [ ] jQuery
 - [ ] ES6 ✨
 - [ ] Promise ✨
