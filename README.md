@@ -3,24 +3,23 @@
 
 🌱 现阶段主攻前端，其他技术栈：C、C#、C++、Java都只会一点点
 
-🎯 2023/9/2目标：在10/2前拥有5个项目的提交
+🎯 2024目标：初步拥有多个项目的提交
 # 前端学习路线
 ✨表示正在学习
 - [x] HTML、CSS、HTML5、CSS3
-- [ ] Bootstrap、less ✨
-- [ ] JavaScript ✨
+- [x] JavaScript
+- [x] AJAX和Promise
 - [ ] jQuery
-- [ ] ES6 ✨
-- [ ] Promise ✨
+- [ ] Bootstrap ✨
+- [x] ES6
 - [ ] Node.js ✨
 - [ ] MongoDB
-- [x] AJAX和axios
-- [ ] Webpack ✨
+- [ ] Webpack/Vite ✨
 - [ ] React ✨
 - [x] Vue2
-- [ ] Vue3
-- [ ] TypeScript ✨
+- [ ] Vue3 ✨
 - [ ] 微信小程序
+- [x] TypeScript 
 <!--
 **Warpshlczy/Warpshlczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
