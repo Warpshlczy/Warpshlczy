@@ -19,7 +19,8 @@
 - [x] Vue2
 - [ ] Vue3 ✨
 - [ ] 微信小程序
-- [x] TypeScript 
+- [x] TypeScript
+- [ ] less/scss ✨
 <!--
 **Warpshlczy/Warpshlczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
