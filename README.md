@@ -1,5 +1,5 @@
 懒得写介绍了,就一臭学敲代码的fw大学牲罢了
-✨正在学习
+## 前端学习路线
 ### Basics
 - [x] HTML+CSS+HTML5+CSS3
 - [x] JavaScript[ES5,ajax,promise,DOM&BOM]
@@ -21,4 +21,6 @@
 - [ ] MongoDB+mySQL ✨
 ### Utils
 - [ ] roll-up+Webpack+Vite ✨
+
+
 
