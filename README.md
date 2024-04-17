@@ -1,26 +1,27 @@
-# 随便写点个人介绍吧
-🔭 纯菜鸡，刚学敲代码没多久，非科班，但立志成为全栈大佬
-
-🌱 现阶段主攻前端，其他技术栈：C、C#、C++、Java都只会一点点
-
-🎯 2024目标：初步拥有多个项目的提交
+# 懒得写介绍了,就一臭学敲代码的
 # 前端学习路线
-✨表示正在学习
-- [x] HTML、CSS、HTML5、CSS3
-- [x] JavaScript
-- [x] AJAX和Promise
+✨正在学习
+Basics:
+- [x] HTML+CSS+HTML5+CSS3
+- [x] JavaScript[ES5,ajax,promise,DOM&BOM]
 - [ ] jQuery
-- [ ] Bootstrap ✨
-- [x] ES6
-- [ ] Node.js ✨
-- [ ] MongoDB
-- [ ] Webpack/Vite ✨
-- [ ] React ✨
+- [x] JavaScript[ES6]
+- [x] Node.js[Basics,NPM]
+- [x] React 
 - [x] Vue2
-- [ ] Vue3 ✨
-- [ ] 微信小程序
-- [x] TypeScript
-- [ ] less/scss ✨
+- [x] Vue3 
+- [ ] 微信小程序(Based on Vue/React)
+Advanced:
+- [x] Sass 
+- [x] Vuetify 
+- [x] Typescript 
+- [ ] Angular
+- [ ] Nuxt ✨
+- [ ] Electron ✨
+Extra:
+- [ ] MongoDB+mySQL ✨
+Utils:
+- [ ] roll-up+Webpack+Vite ✨
 <!--
 **Warpshlczy/Warpshlczy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
