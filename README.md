@@ -1,7 +1,7 @@
-# 懒得写介绍了,就一臭学敲代码的
-## 前端学习路线
+## 懒得写介绍了,就一臭学敲代码的
+### 前端学习路线
 ✨正在学习
-### Basics
+#### Basics
 - [x] HTML+CSS+HTML5+CSS3
 - [x] JavaScript[ES5,ajax,promise,DOM&BOM]
 - [ ] jQuery
@@ -11,15 +11,15 @@
 - [x] Vue2
 - [x] Vue3 
 - [ ] 微信小程序(Based on Vue/React)
-### Advanced
+#### Advanced
 - [x] Sass 
 - [x] Vuetify 
 - [x] Typescript 
 - [ ] Angular
 - [ ] Nuxt ✨
 - [ ] Electron ✨
-### Extra
+#### Extra
 - [ ] MongoDB+mySQL ✨
-### Utils
+#### Utils
 - [ ] roll-up+Webpack+Vite ✨
 
