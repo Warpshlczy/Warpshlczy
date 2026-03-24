@@ -1,5 +1,4 @@
-懒得写介绍了
-## 前端学习路线
+## Front-end Learning Route
 ### Basics
 - [x] HTML+CSS+HTML5+CSS3
 - [x] JavaScript[ES5,ajax,promise,DOM&BOM]
