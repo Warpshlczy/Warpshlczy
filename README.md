@@ -2,24 +2,23 @@
 ### Basics
 - [x] HTML+CSS+HTML5+CSS3
 - [x] JavaScript[ES5,ajax,promise,DOM&BOM]
-- [ ] jQuery
+- [x] jQuery
 - [x] JavaScript[ES6]
 - [x] Node.js[Basics,NPM]
 - [x] React 
-- [x] Vue2
-- [x] Vue3 
-- [ ] 微信小程序(Based on Vue/React)
+- [x] Vue2 / Vue3
+- [x] 微信小程序(Based on Vue/React)
 ### Advanced
 - [x] Sass 
 - [x] Vuetify 
 - [x] Typescript 
-- [ ] Angular
-- [ ] Nuxt ✨
-- [ ] Electron ✨
+- [x] Angular
+- [x] Nuxt 
+- [x] Electron 
 ### Extra
-- [ ] MongoDB+mySQL ✨
+- [x] MongoDB+mySQL 
 ### Utils
-- [ ] roll-up+Webpack+Vite ✨
+- [x] roll-up+Webpack+Vite 
 
 
 
