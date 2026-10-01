@@ -1,7 +1,7 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e293b,100:0284c7&height=200&section=header&text=Warpshlczy&fontSize=68&fontColor=38bdf8&animation=fadeIn&fontAlignY=34&desc=%F0%9F%A7%A0%20your%20brain%20needs%20exercise&descAlignY=56&descSize=18" />
+  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e293b,100:0284c7&height=200&section=header&text=🐾MOKIE🐾&fontSize=68&fontColor=38bdf8&animation=fadeIn&fontAlignY=34&desc=%F0%9F%A7%A0%20your%20brain%20needs%20exercise&descAlignY=56&descSize=18" />
 
   <a href="https://github.com/Warpshlczy">
     <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=CS+Student+%40+City+University+of+Hong+Kong;Front-end+%26+Interactive+Visualization+Enthusiast;Currently+exploring+Human-Computer+Interaction;Learning+to+build+LLM-powered+applications;Using+code+to+make+life+fun%2C+one+commit+at+a+time" />
@@ -137,11 +137,6 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
   <br/>
 
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warpshlczy/Warpshlczy/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Warpshlczy/Warpshlczy/output/pacman-contribution-graph.svg" />
-    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Warpshlczy/Warpshlczy/output/pacman-contribution-graph.svg" />
-  </picture>
 
   <br/>
 
