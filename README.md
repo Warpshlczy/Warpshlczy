@@ -38,7 +38,6 @@ location:  Hong Kong (officially) · Alpha Centauri (spiritually)
 
 I'm a Computer Science student at **City University of Hong Kong** who cares a lot more about *what code can do for real life* than about winning some abstract engineering race.
 Give me a blank canvas and an idea worth laughing at, and I'll happily spend the weekend turning it into something you can actually click on.
-
 <br clear="right"/>
 
 ---
@@ -133,12 +132,6 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
 <div align="center">
 
   <img width="100%" alt="arcade divider" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
-
-  <br/>
-
-
-
-  <br/>
 
 
   <picture>
