@@ -4,7 +4,7 @@
   <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e293b,100:0284c7&height=200&section=header&text=Warpshlczy&fontSize=68&fontColor=38bdf8&animation=fadeIn&fontAlignY=34&desc=%F0%9F%A7%A0%20your%20brain%20needs%20exercise&descAlignY=56&descSize=18" />
 
   <a href="https://github.com/Warpshlczy">
-    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=CS+Undergrad+%40+City+University+of+Hong+Kong;Front-end+%26+Interactive+Visualization+Enthusiast;Currently+exploring+Human-Computer+Interaction;Learning+to+build+LLM-powered+applications;Using+code+to+make+life+fun%2C+one+commit+at+a+time" />
+    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=CS+Student+%40+City+University+of+Hong+Kong;Front-end+%26+Interactive+Visualization+Enthusiast;Currently+exploring+Human-Computer+Interaction;Learning+to+build+LLM-powered+applications;Using+code+to+make+life+fun%2C+one+commit+at+a+time" />
   </a>
 
   <br/>
@@ -114,8 +114,6 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
 | **[CityU Hub](https://github.com/Warpshlczy/CityU-Hub)** ⭐ | A searchable hub for open-source projects built by CityUHK creators — discover the good stuff your classmates are making | `React 19` `Vite 6` `Tailwind v4` `Node.js` |
 | **[Dreamy Home · 梦启小屋](https://github.com/Warpshlczy/Dreamy-Home)** ⭐ | A cozy little personal web app — my happy place, built from scratch | `Vue 3` `Vuetify` `Nuxt` |
 | **[mentors-auto-match](https://github.com/Warpshlczy/mentors-auto-match)** ⭐ | Upload your résumé / RP and get auto-matched with mentors worldwide | `Python` |
-| **[What is Adventure · 异世界大冒险](https://github.com/Warpshlczy/what-is-adventure)** | A browser H5 adventure game — because side quests beat bug fixing | `Vue.js` `Phaser` |
-| **[Monopoly · 大富翁](https://github.com/Warpshlczy/Monopoly-XNSHS)** | The classic board game, reimagined as a playable web game | `TypeScript` `Cocos` |
 | **[SummerSupper VR](https://github.com/Warpshlczy/FYP_SummerSupperVRClient)** | My final-year project — a VR kitchen experience you can step into | `C#` `Unity` |
 
 <details>
@@ -130,7 +128,7 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
 
 ---
 
-## 🕹️ Arcade — My Contributions, But Playable
+## 🕹️ Arcade 
 
 <div align="center">
 
@@ -138,7 +136,6 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
 
   <br/>
 
-  <b>👻 Pac-Man eats a year of my commits</b>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warpshlczy/Warpshlczy/output/pacman-contribution-graph-dark.svg" />
@@ -148,7 +145,6 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
 
   <br/>
 
-  <b>🐍 ...and a snake finishes what's left</b>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Warpshlczy/Warpshlczy/output/github-contribution-grid-snake-dark.svg" />
