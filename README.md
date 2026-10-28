@@ -34,7 +34,7 @@ motto:     use code to change my own life and the real world,
            and make everything fun , not to climb the tech peak
 ```
 
-I'm a **Master's student in Computer Science** at **CityUHK**. During my undergraduate years I poured a lot of time into writing game frameworks and interactive web components , until the arrival of LLMs changed how I think about the programming paradigms I once took for granted, and I decided to spend more of my time on **HCI innovation** and **product design**.
+I'm a **Master's student in Computer Science** at **CityUHK**. During my undergraduate years I poured a lot of time into writing game frameworks and interactive web components , until the arrival of LLMs changed how I think about the programming paradigms I once took for granted, and I decided to spend more of my time on **interactive innovation** and **product design**.
 <br clear="right"/>
 
 ---
