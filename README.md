@@ -32,12 +32,8 @@ learning:  building LLM-powered applications
 not-into:  algorithms · big data          # just not my cup of tea, and that's okay
 motto:     use code to change my own life and the real world,
            and make everything fun — not to climb the tech peak
-habit:     try to commit every single day
-location:  Hong Kong (officially) · Alpha Centauri (spiritually)
 ```
 
-I'm a Computer Science student at **City University of Hong Kong** who cares a lot more about *what code can do for real life* than about winning some abstract engineering race.
-Give me a blank canvas and an idea worth laughing at, and I'll happily spend the weekend turning it into something you can actually click on.
 <br clear="right"/>
 
 ---
@@ -106,22 +102,15 @@ Give me a blank canvas and an idea worth laughing at, and I'll happily spend the
 
 ---
 
-## 🚀 Things I've Built
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **[CityU Hub](https://github.com/Warpshlczy/CityU-Hub)** ⭐ | A searchable hub for open-source projects built by CityUHK creators — discover the good stuff your classmates are making | `React 19` `Vite 6` `Tailwind v4` `Node.js` |
-| **[Dreamy Home · 梦启小屋](https://github.com/Warpshlczy/Dreamy-Home)** ⭐ | A cozy little personal web app — my happy place, built from scratch | `Vue 3` `Vuetify` `Nuxt` |
-| **[mentors-auto-match](https://github.com/Warpshlczy/mentors-auto-match)** ⭐ | Upload your résumé / RP and get auto-matched with mentors worldwide | `Python` |
-| **[SummerSupper VR](https://github.com/Warpshlczy/FYP_SummerSupperVRClient)** | My final-year project — a VR kitchen experience you can step into | `C#` `Unity` |
-
 <details>
 <summary><b>📚 My front-end learning path (the long way round)</b></summary>
 
-- **Basics** — HTML · CSS · HTML5 · CSS3 · JavaScript (ES5 / AJAX / Promise / DOM & BOM) · jQuery · ES6 · Node.js (basics + npm) · React · Vue 2 & 3 · WeChat Mini Programs
-- **Advanced** — Sass · Vuetify · TypeScript · Angular · Nuxt · Electron
-- **Data** — MongoDB · MySQL
-- **Tooling** — Rollup · Webpack · Vite
+- ~~**Basics** — HTML · CSS · HTML5 · CSS3 · JavaScript (ES5 / AJAX / Promise / DOM & BOM) · jQuery · ES6 · Node.js (basics + npm) · React · Vue 2 & 3 · WeChat Mini Programs~~
+- ~~**Advanced** — Sass · Vuetify · TypeScript · Angular · Nuxt · Electron~~
+- ~~**Data** — MongoDB · MySQL~~
+- ~~**Tooling** — Rollup · Webpack · Vite~~
+
+> I still miss the days when skyscrapers were built with hand-written `div`s.
 
 </details>
 
