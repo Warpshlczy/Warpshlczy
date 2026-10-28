@@ -25,13 +25,13 @@
 
 ```yaml
 name:      Mokie · 梦启
-school:    City University of Hong Kong  →  Computer Science
-loves:     web front-end · visual & interactive experiences
+school:    City University of Hong Kong
+loves:     web front-end · visual & interactive experiences · Serious Game 
 curious:   Human-Computer Interaction (HCI)
 learning:  building LLM-powered applications
 not-into:  algorithms · big data          # just not my cup of tea, and that's okay
 motto:     use code to change my own life and the real world,
-           and make everything fun — not to climb the tech peak
+           and make everything fun , not to climb the tech peak
 ```
 
 I'm a **Master's student in Computer Science** at **CityUHK**. During my undergraduate years I poured a lot of time into writing game frameworks and interactive web components , until the arrival of LLMs changed how I think about the programming paradigms I once took for granted, and I decided to spend more of my time on **HCI innovation** and **product design**.
