@@ -164,7 +164,8 @@ Now close this tab and go build something **silly** today — that's an order. �
 - 📧 **mokiethebest@111.com** — the one and only way to reach me
 - 🐙 **GitHub** — and yes, you're already here
 
-> 🌙 I keep a deliberately low profile. No Twitter, no LinkedIn, no Instagram — I'd just rather not have too many people knowing about me. GitHub and email are the only two doors I leave open on the internet.
+> 🌙 I keep a deliberately low profile. No Twitter, no LinkedIn, no Instagram. 
+I'd just rather not have too many people knowing about me. GitHub and email are the only two doors I leave open on the internet.
 
 ---
 
