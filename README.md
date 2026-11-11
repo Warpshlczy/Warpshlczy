@@ -9,8 +9,6 @@
 
   <br/>
 
-  <img alt="Location" src="https://img.shields.io/badge/Hong_Kong-%F0%9F%87%AD%F0%9F%87%B0-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-
 
   <br/>
 
