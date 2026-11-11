@@ -9,9 +9,8 @@
 
   <br/>
 
-  <img alt="CityUHK" src="https://img.shields.io/badge/CityUHK-Computer_Science-0ea5e9?style=for-the-badge&labelColor=0f172a" />
   <img alt="Location" src="https://img.shields.io/badge/Hong_Kong-%F0%9F%87%AD%F0%9F%87%B0-0ea5e9?style=for-the-badge&labelColor=0f172a" />
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-HCI_%26_LLM_Apps-0ea5e9?style=for-the-badge&labelColor=0f172a" />
+
 
   <br/>
 
